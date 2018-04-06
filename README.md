@@ -1,15 +1,9 @@
-#UNIX WORKBENCH
-## EXAMPLES
+#Personal Readme
 
-This repo contains **Unix** tips and tricks
+#About Me
 
-1. Git
-2. Github
-3. Unix regex
-4. Writing Programs in Unix
+1. Important changes 
+2. Are coming
+3. Be ready
 
-- Modular
-- Do only one thing
-- Document
-
-*Thank you*
+It is great in Bangalore. Haffun. Thank you
